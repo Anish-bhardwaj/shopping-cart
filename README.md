@@ -11,7 +11,7 @@ A Shopping Website which can add and remove items to the cart with the help of R
   
 ## Tech Stack
 
-**Client:** Html, Tailwind CSS, Javascript, React.js, and Reduc Toolkit
+**Client:** Html, Tailwind CSS, Javascript, React.js, and Redux Toolkit
 
 **Server:** None
 
@@ -30,4 +30,4 @@ Click on the link given below or follow the instrucations given below to run the
 - The project will be automatically open in your default browser on the localhost:3000
 ## Live Link
 
-https://shopping-cart-demo-reactandredux.netlify.app/
+(https://shopping-cart-demo-reactandredux.vercel.app/)
