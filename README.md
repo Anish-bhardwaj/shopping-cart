@@ -30,4 +30,4 @@ Click on the link given below or follow the instrucations given below to run the
 - The project will be automatically open in your default browser on the localhost:3000
 ## Live Link
 
-([Ecomzy](https://shopping-cart-ecomzy-platform.vercel.app/))
+[Ecomzy](https://shopping-cart-ecomzy-platform.vercel.app/)
